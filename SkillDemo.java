@@ -1,1 +1,5 @@
-public class SkillDemo{} //save editing for VS code
+public class SkillDemo{
+    public static int multiply(int a, int b){
+        return a*b;
+    }
+} 
